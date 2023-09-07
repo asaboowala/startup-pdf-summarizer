@@ -1,1 +1,1 @@
-# startuup-pdf-summarizer
+# startup-pdf-summarizer
